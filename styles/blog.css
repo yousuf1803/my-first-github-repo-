@@ -1,5 +1,8 @@
 div{
     background-color: aquamarine;
     padding: auto;
-    margin: 10px;
+    margin: 10px ;
+}
+.nobackground{
+    background-color:bisque;
 }
