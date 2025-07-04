@@ -1,5 +1,8 @@
 div{
     background-color: aquamarine;
+    background: blueviolet;
+    width: 50%;
+    
     padding: auto;
     margin: 10px ;
 }
